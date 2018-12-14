@@ -22,7 +22,7 @@ Recently many MNC’s are facing an issue where a customer of a particular regio
 - Beam Search or Greedy Decoding
 
 ## Results
-
+![alt text](Images/Results.JPG)
 
 ## Acknowledgements
 - [Thomasschmied - Neural_Machine_Translation_Tensorflow](https://github.com/thomasschmied/Neural_Machine_Translation_Tensorflow)
