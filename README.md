@@ -1,7 +1,6 @@
 # BahuBhashi
 Recently many MNC’s are facing an issue where a customer of a particular region calls in and the customer experiences long wait hours as all the representatives are busy. While their call centers in other regions are not experiencing busy wait hours. To mitigate this issue there could be a system designed which takes an audio input in one language and translates it into another language. This solution could be used where if the call centers in one region are facing high call volumes the calls could be directed to the regions facing lower call volumes and BahuBhashi could be used so that person on both ends can converse in their own language and find a solution to their issue. 
 
-![Results](./Images /Results.jpg)
 
 ## Dependencies
 - [European Parliament Proceedings Parallel Corpus](http://www.statmt.org/europarl/v7/de-en.tgz)
