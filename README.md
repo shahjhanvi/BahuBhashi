@@ -21,6 +21,9 @@ Recently many MNC’s are facing an issue where a customer of a particular regio
 - Adam Optimizer
 - Beam Search or Greedy Decoding
 
+## Results
+
+
 ## Acknowledgements
 - [Thomasschmied - Neural_Machine_Translation_Tensorflow](https://github.com/thomasschmied/Neural_Machine_Translation_Tensorflow)
 - [Overcoming the Language Barrier with Speech Translation Technology](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.472.1019&rep=rep1&type=pdf)
